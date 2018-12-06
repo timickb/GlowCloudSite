@@ -1,0 +1,70 @@
+.blue {
+	background: blue;
+	padding: 12px;
+
+}
+.lightblue {
+	background: lightblue;
+	padding: 12px;
+
+}
+.deepskyblue {
+	background: deepskyblue;
+	padding: 12px;
+
+	border-radius: 9px;
+}
+.green {
+	background: green;
+	padding: 12px;
+
+}
+.darkgreen {
+	background: darkgreen;
+	padding: 12px;
+
+}
+.yellow {
+	background: yellow;
+	padding: 12px;
+
+}
+.orange {
+	background: orange;
+	padding: 12px;
+
+}
+.red {
+	background: red;
+	padding: 12px;
+
+}
+.chocolate {
+	background: chocolate;
+	padding: 12px;
+
+}
+.hotpink {
+	background: hotpink;
+	padding: 12px;
+
+}
+.purple {
+	background: purple;
+	padding: 12px;
+
+}
+.white {
+	background: white;
+	padding: 12px;
+
+}
+.gray {
+	background: gray;
+	padding: 12px;
+
+}
+.default {
+	background: rgba(255,255,255,0.9);
+	padding: 12px;
+}

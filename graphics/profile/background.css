@@ -1,0 +1,70 @@
+.blue {
+	background: blue;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.lightblue {
+	background: lightblue;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.deepskyblue {
+	background: deepskyblue;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+	border-radius: 9px;
+}
+.green {
+	background: green;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.darkgreen {
+	background: darkgreen;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.yellow {
+	background: yellow;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.orange {
+	background: orange;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.red {
+	background: red;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.chocolate {
+	background: chocolate;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.hotpink {
+	background: hotpink;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.purple {
+	background: purple;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.white {
+	background: white;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.gray {
+	background: gray;
+	padding: 12px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.75);
+}
+.default {
+	background: rgba(255,255,255,0.9);
+	padding: 12px;
+}

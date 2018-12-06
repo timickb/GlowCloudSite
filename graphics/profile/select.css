@@ -1,0 +1,117 @@
+.blue_select {
+	width: 32px;
+	height: 32px;
+	background: blue;
+	border: none;
+}
+.blue_select:hover {
+	border: 1px solid lightgray;
+}
+.lightblue_select {
+	width: 32px;
+	height: 32px;
+	background: lightblue;
+	border: none;
+}
+.lightblue_select:hover {
+	border: 1px solid lightgray;
+}
+.deepskyblue_select {
+	width: 32px;
+	height: 32px;
+	background: deepskyblue;	
+	border: none;
+}
+.deepskyblue_select:hover {
+	border: 1px solid lightgray;
+}
+.green_select {
+	width: 32px;
+	height: 32px;
+	background: green;	
+	border: none;
+}
+.green_select:hover {
+	border: 1px solid lightgray;
+}
+.darkgreen_select {
+	width: 32px;
+	height: 32px;
+	background: darkgreen;
+	border: none;
+}
+.darkgreen_select:hover {
+	border: 1px solid lightgray;
+}
+.yellow_select {
+	width: 32px;
+	height: 32px;
+	background: yellow;
+	border: none;
+}
+.yellow_select:hover {
+	border: 1px solid lightgray;
+}
+.orange_select {
+	width: 32px;
+	height: 32px;
+	background: orange;	
+	border: none;
+}
+.orange_select:hover {
+	border: 1px solid lightgray;
+}
+.red_select {
+	width: 32px;
+	height: 32px;
+	background: red;
+	border: none;
+}
+.red_select:hover {
+	border: 1px solid lightgray;
+}
+.chocolate_select {
+	width: 32px;
+	height: 32px;
+	background: chocolate;
+	border: none;
+}
+.chocolate_select:hover {
+	border: 1px solid lightgray;
+}
+.hotpink_select {
+	width: 32px;
+	height: 32px;
+	background: hotpink;
+	border: none;
+}
+.hotpink_select:hover {
+	border: 1px solid lightgray;
+}
+.purple_select {
+	width: 32px;
+	height: 32px;
+	background: purple;
+	border: none;
+}
+.purple_select:hover {
+	border: 1px solid lightgray;
+}
+.white_select {
+	width: 32px;
+	height: 32px;
+	background: white;
+	border: none;
+}
+.white_select:hover {
+	border: 1px solid lightgray;
+}
+.gray_select {
+	width: 32px;
+	height: 32px;
+	background: gray;
+	border: none;
+}
+.gray_select:hover {
+	border: 1px solid lightgray;
+}
